@@ -33,12 +33,14 @@
 
 .newestChapterBar {
   background-color: #152014;
-  height: auto;
+  height: 250px;
+  flex: auto;
+  align-items: center;
 }
 
 .newestChapterBar img {
-  margin-left: 5%;
-  margin-top: 2%;
+  margin-left: 25%;
+  margin-top: 3%;
 }
 
 .newestChapterBar h1 {
